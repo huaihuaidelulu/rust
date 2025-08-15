@@ -16,7 +16,7 @@ system.
 ## Target maintainers
 
 [@Amanieu](https://github.com/Amanieu)
-[@lubinglun](https://github.com/lubinglun)
+[@chengzhiwei](https://gitee.com/chengzhiwei268)
 
 ## Requirements
 
